@@ -1,4 +1,4 @@
 welcome to MyProject!!!
 
-Author: Ganga
+Author: Ganga dhara B
 Twitter: Gothilla.
