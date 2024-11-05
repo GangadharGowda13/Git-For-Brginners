@@ -1,3 +1,1 @@
 welcome to MyProject!!!
-
-Author: 
